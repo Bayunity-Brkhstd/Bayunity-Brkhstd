@@ -63,12 +63,13 @@ I bridge the gap between **low-level systems performance**, **modern fullstack w
 
 <div align="center">
   <img height="180em" src="https://vercel.app" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayunity-Brkhstd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://vercel.app" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://demolab.com" alt="GitHub Streak" />
+  <img src="https://vercel.app" alt="GitHub Streak" />
 </div>
+
 
 ---
 
