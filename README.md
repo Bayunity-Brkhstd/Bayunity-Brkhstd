@@ -62,12 +62,12 @@ I bridge the gap between **low-level systems performance**, **modern fullstack w
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bayunity-Brkhstd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://vercel.app" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayunity-Brkhstd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bayunity-Brkhstd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://demolab.com" alt="GitHub Streak" />
 </div>
 
 ---
